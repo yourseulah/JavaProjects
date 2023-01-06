@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 05 23:57:16 PST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0185-8615-8915-00000f495970 
+on database directory D:\myWorkSpace\ShowCase\Java\ATMFinal\ATM\BankDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/D:/myWorkSpace/Fall%202022/CSIS2175/lect11/lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.2.1+1-1
+user.dir=D:\myWorkSpace\ShowCase\Java\ATMFinal\ATM
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
